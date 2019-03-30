@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">KeyboardVisibility</string>
+    <string name="edit_text_hint">Message</string>
+</resources>
