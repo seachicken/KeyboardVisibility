@@ -4,7 +4,7 @@
 
 Handle keyboard visibility event for Android Kotlin.
 
-![demo](.github/demo.gif)
+<img src=".github/demo.gif" width="250px" />
 
 ## Usage
 
